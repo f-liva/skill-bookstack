@@ -1,6 +1,7 @@
 ---
 name: bookstack
 description: "BookStack Wiki & Documentation API integration. Manage your knowledge base programmatically: create, read, update, and delete books, chapters, pages, and shelves. Full-text search across all content. Use this skill whenever the user mentions BookStack, wiki pages, knowledge base, documentation pages, or wants to publish, update, or search content on a BookStack instance -- even if they just say 'update the docs' or 'check the wiki' without naming BookStack explicitly. Also use when syncing or automating documentation workflows between systems."
+metadata: {"requiredEnv": ["BOOKSTACK_URL", "BOOKSTACK_TOKEN_ID", "BOOKSTACK_TOKEN_SECRET"]}
 ---
 
 # BookStack API Skill
