@@ -1,0 +1,10 @@
+{
+  "owner": "f-liva",
+  "slug": "bookstack-api",
+  "displayName": "BookStack API",
+  "homepage": "https://github.com/f-liva/skill-bookstack",
+  "source": "https://github.com/f-liva/skill-bookstack",
+  "latest": {
+    "version": "1.0.2"
+  }
+}
